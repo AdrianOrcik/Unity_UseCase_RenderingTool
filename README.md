@@ -29,7 +29,7 @@ Tool will be used by designers in to improve asset workflow and avoid to work wi
 * Intuitive movement behaviour of obj in render area
 * Save data to structures and use in game
 
-:fire: Result
+:rocket: Result
 ---------
 
 :poop: What issues was handled 
@@ -49,3 +49,9 @@ Tool will be used by designers in to improve asset workflow and avoid to work wi
    * Obj rotation & zooming
    
 ![RenderWindow](https://user-images.githubusercontent.com/14979589/69479562-4f868f80-0e07-11ea-82ab-56127a493b53.PNG)
+
+:fire: Support
+ ---------
+ [![Buy Me A Coffe](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/AdrianOrcik)
+
+
