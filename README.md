@@ -49,7 +49,7 @@ Tool will be used by designers in to improve asset workflow and avoid to work wi
    * Error Handler
    * Obj rotation & zooming
    
-![RenderWindow](https://user-images.githubusercontent.com/14979589/69479562-4f868f80-0e07-11ea-82ab-56127a493b53.PNG)
+![RenderExample](https://user-images.githubusercontent.com/14979589/69479675-9d4fc780-0e08-11ea-9062-f618330a818c.gif)
 
 :fire: Support
  ---------
