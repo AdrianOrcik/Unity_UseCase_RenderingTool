@@ -31,6 +31,7 @@ Tool will be used by designers in to improve asset workflow and avoid to work wi
 
 :rocket: Result
 ---------
+![renderResult](https://user-images.githubusercontent.com/14979589/69479649-40eca800-0e08-11ea-8cce-7618ae851f45.jpg)
 
 :poop: What issues was handled 
 ---------
