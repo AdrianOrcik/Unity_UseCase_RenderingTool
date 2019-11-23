@@ -1,5 +1,4 @@
-:pencil: (Use Case) Custom Render Window
----------
+# :pencil: (Use Case) Custom Render Window
 
 :pushpin: Overview
 ---------
