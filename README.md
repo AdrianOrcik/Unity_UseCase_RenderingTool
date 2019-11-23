@@ -7,10 +7,9 @@ Custom Render Window is part of cargo system which was developed,
 with focus on improve game designers workflow with game objects (trucks, cargo).
 Here is **Truck Preview Renderer** which I would like to share with you.
 
-![CargoArchitecture](https://user-images.githubusercontent.com/14979589/69476392-01ab6080-0de2-11ea-83c8-97a96a7c5eb1.PNG)
+*Repository contain example rendering window which will be helpful as reference, for easy implement your own features.*
 
-Repository contain example rendering window which will be helpful as reference,
-for easy implement your own features.
+![CargoArchitecture](https://user-images.githubusercontent.com/14979589/69476392-01ab6080-0de2-11ea-83c8-97a96a7c5eb1.PNG)
 
 :bulb: Idea
 ---------
