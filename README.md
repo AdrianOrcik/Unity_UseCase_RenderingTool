@@ -36,6 +36,6 @@ Tool will be used by designers in to improve asset workflow and avoid to work wi
 * Can't modify specific cargo obj from prefab hrierarchy.
   * Read data from cargo obj then just work with data from own structure
 * Keep data in specific structure and dictionary is not serializable.
-  * Create own serializable dictionary in unity
+  * Create own serializable dictionary in unity and store into scriptable obj
 
 
