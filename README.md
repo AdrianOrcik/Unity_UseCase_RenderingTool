@@ -41,7 +41,9 @@ Tool will be used by designers in to improve asset workflow and avoid to work wi
   * Read data from cargo obj then just work with data from own structure
 * Keep data in specific structure and dictionary is not serializable.
   * Create own serializable dictionary in unity and store into scriptable obj
-
+      * [Check Dictionary Here](https://github.com/AdrianOrcik/Utils/tree/master/SmartDictionary)
+      
+ 
 :package: Package to download
 ---------
 * Window editor renderer ready for build your own tool.
