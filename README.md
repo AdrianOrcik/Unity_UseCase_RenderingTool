@@ -1,7 +1,7 @@
 :pencil: (Use Case) Custom Render Window
 ---------
 
-Overview
+:pushpin: Overview
 ---------
 Custom Render Window is part of cargo system which was developed,
 with focus on improve game designers workflow with game objects (trucks, cargo).
@@ -12,7 +12,7 @@ Here is **Truck Preview Renderer** which I would like to share with you.
 Repository contain example rendering window which will be helpful as reference,
 for easy implement your own features.
 
-Motivation
+:bulb: Idea
 ---------
 In trucks oriented game we need develop render window tool which will able to customize cargo on trucks.
 Tool will be used by designers in to improve asset workflow and avoid to work with seperate objects in scenes.
@@ -21,7 +21,7 @@ Tool will be used by designers in to improve asset workflow and avoid to work wi
     * Cargo pack prefab with specific cargo as childs
     * Mesh of truck to render
 
-Goals
+:white_check_mark: Goals
 ---------
 * Rendering truck & cargo
 * Easy switching between trucks and cargo
@@ -30,7 +30,7 @@ Goals
 * Intuitive movement behaviour of obj in render area
 * Save data to structures and use in game
 
-What issues was handled 
+:poop: What issues was handled 
 ---------
 * Can't modify truck prefab.
   * Use separate template like mesh obj instead of truck prefab  
