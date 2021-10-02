@@ -52,9 +52,3 @@ Tool will be used by designers in to improve asset workflow and avoid to work wi
    * Obj rotation & zooming
    
 ![RenderExample](https://user-images.githubusercontent.com/14979589/69479675-9d4fc780-0e08-11ea-9062-f618330a818c.gif)
-
-:fire: Support
- ---------
- [![Buy Me A Coffe](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/AdrianOrcik)
-
-
